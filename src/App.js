@@ -82,6 +82,5 @@ class App extends Component {
   }
 }
 
-//this is an edit
 
 export default App;
